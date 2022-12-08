@@ -15,7 +15,7 @@ The Challenge twenty assignment tasked us with creating a tech blog using MVC (M
 
 ## Resources
 
-- [LIVE SITE]()
+- [LIVE SITE](https://klaver-tech-blog-14.herokuapp.com/)
 
 - [Repository](https://github.com/Jklaver91/Tech-Blog-14)
 
